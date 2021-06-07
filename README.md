@@ -1,0 +1,1 @@
+# collect_image_web
