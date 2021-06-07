@@ -49,13 +49,13 @@
                     //     ]
                     // },
                     {
-                        icon: 'pe-7s-graph2',
+                        icon: 'pe-7s-home',
                         title: 'Home',
                         href: '/collect/home',
                     },
                     {
                         title: 'Common Camera',
-                        icon: 'pe-7s-browser',
+                        icon: 'pe-7s-album',
                         child: [
                             {
                                 href: '/collect/common/list',
@@ -69,7 +69,7 @@
                     },
                     {
                         title: 'Image Fundus',
-                        icon: 'pe-7s-browser',
+                        icon: 'pe-7s-helm',
                         child: [
                             {
                                 href: '/collect/fundus/list',
@@ -86,7 +86,7 @@
                         title: 'Documentation',
                     },
                     {
-                        icon: 'pe-7s-graph2',
+                        icon: 'pe-7s-science',
                         title: 'Project Explanation',
                         href: '/documentation/project',
                     },

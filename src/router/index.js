@@ -14,7 +14,7 @@ export default new Router({
         {
             path: '/',
             name: 'analytics',
-            component: () => import('../DemoPages/Dashboards/Analytics.vue'),
+            component: () => import('../DemoPages/Charts/Chartjs.vue'),
         },
 
         // Pages
