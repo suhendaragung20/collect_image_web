@@ -175,6 +175,11 @@ export default new Router({
             component: () => import('../DemoPages/Collect/CommonAdd.vue'),
         },
         {
+            path: '/collect/common/label',
+            name: 'common_label',
+            component: () => import('../DemoPages/Collect/CommonLabel.vue'),
+        },
+        {
             path: '/collect/fundus/list',
             name: 'fundus_list',
             component: () => import('../DemoPages/Collect/FundusList.vue'),
@@ -183,6 +188,11 @@ export default new Router({
             path: '/collect/fundus/add',
             name: 'fundus_add',
             component: () => import('../DemoPages/Collect/FundusAdd.vue'),
+        },
+        {
+            path: '/collect/fundus/label',
+            name: 'common_fundus',
+            component: () => import('../DemoPages/Collect/FundusLabel.vue'),
         },
         {
             path: '/documentation/instruction',

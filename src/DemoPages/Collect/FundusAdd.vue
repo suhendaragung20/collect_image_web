@@ -21,7 +21,7 @@
             <div class="col-md-6">
                 <div class="main-card mb-3 card">
                     <div class="card-body"><h5 class="card-title">Label</h5>
-                        <form class=""><input placeholder="type here..." type="text"
+                        <form class=""><input placeholder="selet here..." type="text"
                                               class="mb-2 form-control-lg form-control">
                             </form>
                     </div>

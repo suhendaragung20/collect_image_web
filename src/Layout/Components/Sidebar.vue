@@ -58,6 +58,10 @@
                         icon: 'pe-7s-album',
                         child: [
                             {
+                                href: '/collect/common/label',
+                                title: 'Manage Label',
+                            },
+                            {
                                 href: '/collect/common/list',
                                 title: 'List Image',
                             },
@@ -71,6 +75,10 @@
                         title: 'Image Fundus',
                         icon: 'pe-7s-helm',
                         child: [
+                            {
+                                href: '/collect/fundus/label',
+                                title: 'Manage Label',
+                            },
                             {
                                 href: '/collect/fundus/list',
                                 title: 'List Image',
